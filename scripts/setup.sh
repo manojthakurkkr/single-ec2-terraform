@@ -97,7 +97,7 @@ echo "===== Frontend Setup Completed Successfully ====="
 # Maps port 80 on the EC2 to port 5000 (or whatever your app uses) in the container
 #docker run -d --name backend -p 5000:5000 --restart always backend
 
-cd ..
+#cd ..
 #git clone https://github.com/manojthakurkkr/frontend.git
 #cd frontend
 
